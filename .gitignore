@@ -1,0 +1,10 @@
+backend/.env
+backend/.venv/
+backend/reviveai.db
+backend/logs/
+frontend/node_modules/
+frontend/.install-stamp
+frontend/dist/
+__pycache__/
+*.pyc
+.DS_Store

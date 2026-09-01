@@ -1,0 +1,8 @@
+razorpay_payment_id,razorpay_order_id,customer_name,product_name,amount,currency,method,decline_code,customer_tenure_days,past_decline_count,created_at,issuer
+pay_upi001,order_upi001,Kavya Nair,FreshBasket Groceries,450,INR,upi,do_not_honor,120,1,2026-08-30T16:25:00,PhonePe UPI
+pay_upi002,order_upi002,Meera Patel,FitBox Monthly,999,INR,upi,risk_block,200,0,2026-08-30T16:26:00,Paytm Payments Bank
+pay_upi003,order_upi003,Karan Malhotra,TravelPass Plus,3200,INR,wallet,insufficient_funds,90,2,2026-08-30T16:27:00,PhonePe UPI
+pay_upi004,order_upi004,Divya Krishnan,ZenFlow Yoga App,399,INR,wallet,do_not_honor,60,1,2026-08-30T16:28:00,Paytm Payments Bank
+pay_upi005,order_upi005,Nikhil Rao,SpiceRoute Subscription,1100,INR,upi,risk_block,300,0,2026-08-30T16:29:00,SBI
+pay_upi006,order_upi006,Pooja Verma,CodeCamp Annual,599,INR,wallet,do_not_honor,45,3,2026-08-30T16:30:00,PhonePe UPI
+pay_upi007,order_upi007,Amit Shah,PixelCraft SaaS,2100,INR,upi,risk_block,180,1,2026-08-30T16:31:00,ICICI Bank

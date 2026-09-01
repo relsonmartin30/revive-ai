@@ -1,0 +1,7 @@
+razorpay_payment_id,razorpay_order_id,customer_name,product_name,amount,currency,method,decline_code,customer_tenure_days,past_decline_count,created_at
+pay_78404408357550,order_1037522523242,Priya Sharma,FitBox Monthly,9942.38,INR,card,insufficient_funds,420,0,2026-08-28T09:06:00
+pay_71567196022988,order_2771882659610,Arjun Mehta,CloudLedger Pro,3469.08,INR,upi,do_not_honor,467,4,2026-08-28T09:27:00
+pay_44489642449375,order_1066635833553,Sneha Reddy,SpiceRoute Subscription,4039.4,INR,netbanking,expired_card,382,1,2026-08-28T09:45:00
+pay_57794892649092,order_6842968587146,Rahul Kapoor,StudyMate Premium,8436.83,INR,wallet,risk_block,417,1,2026-08-28T09:52:00
+pay_52746433143029,order_7428352360688,Ananya Iyer,HomeChef Weekly Box,5578.73,INR,card,threeds_failure,198,2,2026-08-28T10:19:00
+pay_80920525669116,order_7057385082179,Vikram Singh,ZenFlow Yoga App,651.32,INR,upi,currency_mismatch,11,0,2026-08-28T10:32:00

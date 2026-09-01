@@ -1,0 +1,8 @@
+razorpay_payment_id,razorpay_order_id,customer_name,product_name,amount,currency,method,decline_code,customer_tenure_days,past_decline_count,created_at,issuer
+pay_rep001,order_rep001,Rohan Desai,FitBox Monthly,650,INR,card,insufficient_funds,90,5,2026-08-30T16:02:00,HDFC Bank
+pay_rep002,order_rep002,Kavya Nair,FreshBasket Groceries,420,INR,wallet,insufficient_funds,60,6,2026-08-30T16:03:00,PhonePe UPI
+pay_rep003,order_rep003,Rohan Desai,PixelCraft SaaS,3200,INR,card,insufficient_funds,120,4,2026-08-30T16:04:00,ICICI Bank
+pay_rep004,order_rep004,Kavya Nair,TravelPass Plus,1800,INR,card,currency_mismatch,45,7,2026-08-30T16:05:00,SBI
+pay_rep005,order_rep005,Rohan Desai,BikeEMI Installment,5500,INR,card,insufficient_funds,200,5,2026-08-30T16:06:00,Axis Bank
+pay_rep006,order_rep006,Kavya Nair,CodeCamp Annual,399,INR,upi,insufficient_funds,30,8,2026-08-30T16:07:00,IDFC First Bank
+pay_rep007,order_rep007,Rohan Desai,HomeChef Weekly Box,890,INR,card,insufficient_funds,150,4,2026-08-30T16:08:00,HDFC Bank

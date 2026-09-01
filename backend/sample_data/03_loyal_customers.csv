@@ -1,0 +1,8 @@
+razorpay_payment_id,razorpay_order_id,customer_name,product_name,amount,currency,method,decline_code,customer_tenure_days,past_decline_count,created_at,issuer
+pay_loy001,order_loy001,Priya Sharma,FitBox Monthly,1200,INR,card,insufficient_funds,820,0,2026-08-30T15:55:00,HDFC Bank
+pay_loy002,order_loy002,Arjun Mehta,SpiceRoute Subscription,890,INR,upi,insufficient_funds,650,1,2026-08-30T15:56:00,SBI
+pay_loy003,order_loy003,Sneha Reddy,ZenFlow Yoga App,499,INR,card,insufficient_funds,900,0,2026-08-30T15:57:00,ICICI Bank
+pay_loy004,order_loy004,Rahul Kapoor,StudyMate Premium,750,INR,card,insufficient_funds,720,0,2026-08-30T15:58:00,Axis Bank
+pay_loy005,order_loy005,Ananya Iyer,HomeChef Weekly Box,1100,INR,card,insufficient_funds,540,1,2026-08-30T15:59:00,Yes Bank
+pay_loy006,order_loy006,Vikram Singh,MusicStream Family,299,INR,upi,insufficient_funds,400,0,2026-08-30T16:00:00,Kotak Mahindra
+pay_loy007,order_loy007,Aditya Joshi,CloudLedger Pro,1999,INR,card,expired_card,500,0,2026-08-30T16:01:00,Federal Bank

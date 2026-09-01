@@ -1,0 +1,9 @@
+razorpay_payment_id,razorpay_order_id,customer_name,product_name,amount,currency,method,decline_code,customer_tenure_days,past_decline_count,created_at,issuer
+pay_hdfc001,order_hdfc001,Priya Sharma,FitBox Monthly,2200,INR,card,do_not_honor,300,1,2026-08-30T16:10:00,HDFC Bank
+pay_hdfc002,order_hdfc002,Arjun Mehta,CloudLedger Pro,3100,INR,card,risk_block,250,2,2026-08-30T16:11:00,HDFC Bank
+pay_hdfc003,order_hdfc003,Sneha Reddy,SpiceRoute Subscription,1800,INR,netbanking,do_not_honor,400,0,2026-08-30T16:12:00,HDFC Bank
+pay_hdfc004,order_hdfc004,Rahul Kapoor,StudyMate Premium,4500,INR,card,threeds_failure,180,1,2026-08-30T16:13:00,HDFC Bank
+pay_hdfc005,order_hdfc005,Ananya Iyer,HomeChef Weekly Box,990,INR,card,do_not_honor,220,3,2026-08-30T16:14:00,HDFC Bank
+pay_hdfc006,order_hdfc006,Vikram Singh,ZenFlow Yoga App,650,INR,upi,risk_block,90,1,2026-08-30T16:15:00,HDFC Bank
+pay_hdfc007,order_hdfc007,Meera Patel,MusicStream Family,1200,INR,card,do_not_honor,500,0,2026-08-30T16:16:00,HDFC Bank
+pay_hdfc008,order_hdfc008,Karan Malhotra,FreshBasket Groceries,2800,INR,card,risk_block,340,2,2026-08-30T16:17:00,HDFC Bank
